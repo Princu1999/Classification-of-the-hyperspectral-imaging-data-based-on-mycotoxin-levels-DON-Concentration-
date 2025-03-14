@@ -56,7 +56,7 @@ The main classification code is contained within the Jupyter Notebook `Princu_Si
 Open your terminal and run:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Princu1999/Classification-of-the-hyperspectral-imaging-data-based-on-mycotoxin-levels-DON-Concentration-
 cd <repository_directory>
 ```
 
