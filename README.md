@@ -1,8 +1,3 @@
----
-title: "Classification of the Hyperspectral Imaging Data Based on Mycotoxin Levels (DON Concentration)"
-description: "ImagoAI Classification Project using Python for detecting DON concentration in corn samples."
----
-
 # ImagoAI Classification Project
 
 This project contains a classification implementation using Python. The main code is provided in the Jupyter Notebook `Princu_Singh_ImagoAI.ipynb`, which demonstrates data preprocessing, model training, and evaluation for a classification task.
@@ -111,13 +106,10 @@ If the command runs without error, it will display a public URL where your Strea
 
 ## Project Structure
 ```
-├── data
+├── dataset
 │   └── <dataset_files>
-├── models
-│   └── <trained_models>
 ├── notebooks
 │   └── Princu_Singh_ImagoAI.ipynb
-├── app.py
 ├── requirements.txt
 └── README.md
 ```
